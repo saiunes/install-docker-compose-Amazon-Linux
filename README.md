@@ -1,4 +1,4 @@
-# install-docker-compose-Amazon-Linux
+# instal Docker Compose on Amazon Linux
 **The procedure to install docker compose on Amazon Linux is as follows:**
 
 <sub>Note: To install [docker](https://github.com/saiunes/install-docker-Amazon-Linux/) follow instructions on [this page](https://github.com/saiunes/install-docker-Amazon-Linux/)</sub> 
